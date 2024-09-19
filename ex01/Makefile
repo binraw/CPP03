@@ -1,8 +1,8 @@
 NAME = ClapTrap
 
 
-SRCS_FILE = ClapTrap.cpp main.cpp
-HEADER_FILE = ClapTrap.hpp
+SRCS_FILE = ClapTrap.cpp main.cpp ScavTrap.cpp
+HEADER_FILE = ClapTrap.hpp ScavTrap.hpp
 
 CC = c++
 CFLAGS = -Wall -Wextra -Werror -std=c++98
